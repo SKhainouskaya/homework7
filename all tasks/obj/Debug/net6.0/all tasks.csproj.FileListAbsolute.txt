@@ -1,0 +1,15 @@
+C:\Users\gue\Desktop\homework7\all tasks\bin\Debug\net6.0\all tasks.exe
+C:\Users\gue\Desktop\homework7\all tasks\bin\Debug\net6.0\all tasks.deps.json
+C:\Users\gue\Desktop\homework7\all tasks\bin\Debug\net6.0\all tasks.runtimeconfig.json
+C:\Users\gue\Desktop\homework7\all tasks\bin\Debug\net6.0\all tasks.dll
+C:\Users\gue\Desktop\homework7\all tasks\bin\Debug\net6.0\all tasks.pdb
+C:\Users\gue\Desktop\homework7\all tasks\obj\Debug\net6.0\all tasks.csproj.AssemblyReference.cache
+C:\Users\gue\Desktop\homework7\all tasks\obj\Debug\net6.0\all tasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gue\Desktop\homework7\all tasks\obj\Debug\net6.0\all tasks.AssemblyInfoInputs.cache
+C:\Users\gue\Desktop\homework7\all tasks\obj\Debug\net6.0\all tasks.AssemblyInfo.cs
+C:\Users\gue\Desktop\homework7\all tasks\obj\Debug\net6.0\all tasks.csproj.CoreCompileInputs.cache
+C:\Users\gue\Desktop\homework7\all tasks\obj\Debug\net6.0\all tasks.dll
+C:\Users\gue\Desktop\homework7\all tasks\obj\Debug\net6.0\refint\all tasks.dll
+C:\Users\gue\Desktop\homework7\all tasks\obj\Debug\net6.0\all tasks.pdb
+C:\Users\gue\Desktop\homework7\all tasks\obj\Debug\net6.0\all tasks.genruntimeconfig.cache
+C:\Users\gue\Desktop\homework7\all tasks\obj\Debug\net6.0\ref\all tasks.dll
